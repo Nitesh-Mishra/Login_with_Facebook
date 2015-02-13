@@ -1,0 +1,1 @@
+In this application i have configured Facebook login using Ruby on Rails.
